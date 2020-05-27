@@ -1,0 +1,11 @@
+Objectives for the course 2 of this program will the following:
+
+    1. This course will make the students familiar with the python programming ecosystem, especially targeted to those who are new to python programming. 
+
+    2. This course will have no pre-requisites and it will also serve as a quick python refresher for the times to come.
+
+    3. The students will also build small but useful applicatons in this course, but unlike other courses, the students will first learn the syntax of python first and then jump into building stuff. This is necessary as the approach we are taking is for data science and thats where it will work the best. 
+
+    4. After completing this project, the student should be confindent that he/she can code in python. This course does not assume to teach everything, it will just guide them on the process of learning. Most imnportantly, it will show them how to search for answers when you are stuck.
+
+    5. MENTOR' SUPERVISION IS ABSOLUTELY NECESSARY IN THIS COURSE
